@@ -1,2 +1,4 @@
-data/finra_short_interest_data/collated_short_interest_data.csv
-data/wrds_stock_daily_data/wrds_stock_daily_data.csv
+data/wrds_stock_daily_data/
+data/datasets/
+data/models/
+data/market_data
