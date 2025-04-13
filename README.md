@@ -1,6 +1,6 @@
 # Trading with Neural Networks: A Long–Short Approach
 
-This repository contains my individual project for the **Advanced Machine Learning** module, part of the **Computational Finance MSc** at University College London (UCL). The project investigates the use of machine learning models—including Logistic Regression, LSTM, CNN, and Wavelet-CNN—to forecast daily S&P 500 returns and construct profitable long–short trading strategies.
+This repository contains my individual project for the **Advanced Machine Learning** module, part of the **Computational Finance MSc** at University College London (UCL). The project investigates the use of machine learning models—including Logistic Regression, LSTM, CNN, and Wavelet-CNN—to forecast daily S&P 500 returns and construct profitable long–short trading strategies. The methodology is based on a published paper.
 
 ---
 
